@@ -1,0 +1,13 @@
+{
+  "visualization": {
+    "id": "custom_todo_list",
+    "label": "Interactive To-Do List",
+    "description": "A checklist visualization with interactive checkboxes.",
+    "iconUrl": "https://backend.getd.dk/assets/87f0f8f6-a260-4d6c-b035-e5708028c3d5.svg",
+    "dataTypes": ["CATEGORICAL"],
+    "file": "visualization.js"
+  },
+  "configuration": {
+    "allowExternalDataSources": true
+  }
+}
